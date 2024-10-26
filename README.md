@@ -1,6 +1,3 @@
-Here’s the updated README.md with results and findings for each analysis section:
-
----
 
 # 🧑‍💻 Data Analyst Job Market Analysis 2023
 
@@ -200,11 +197,11 @@ git clone link-to-your-repo
 ```
 
 ## 📌 Links
-- [GitHub Repository](link-to-your-repo)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [GitHub Repository](/Project_SQL/)
+- [LinkedIn](https://www.linkedin.com/in/kanishk-garg-2b3a96209/)
 
 ## 📫 Contact
-Questions? Reach out via [GitHub Issues](link-to-your-repo/issues) or connect with me on LinkedIn.
+Questions? Reach out via [GitHub Issues](/Project_SQL//issues) or connect with me on LinkedIn.
 
 ---
 
