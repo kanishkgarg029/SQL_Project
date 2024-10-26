@@ -1,3 +1,6 @@
+Here’s the updated README.md with results and findings for each analysis section:
+
+---
 
 # 🧑‍💻 Data Analyst Job Market Analysis 2023
 
