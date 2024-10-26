@@ -200,7 +200,7 @@ git clone link-to-your-repo
 - [LinkedIn](https://www.linkedin.com/in/kanishk-garg-2b3a96209/)
 
 ## 📫 Contact
-Questions? Reach out via [GitHub Issues](/Project_SQL//issues) or connect with me on LinkedIn.
+Questions? Connect with me on LinkedIn.
 
 ---
 
