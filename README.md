@@ -1,7 +1,3 @@
-Here’s the updated README.md with results and findings for each analysis section:
-
----
-
 # 🧑‍💻 Data Analyst Job Market Analysis 2023
 
 Welcome to the **Data Analyst Job Market Analysis 2023** project! This repository analyzes the 2023 data analyst job postings to uncover trends in top-paying roles, in-demand skills, and optimal skills to succeed in the industry. The analysis is built on SQL queries to provide insights into the most lucrative and strategic skills for aspiring data analysts.
